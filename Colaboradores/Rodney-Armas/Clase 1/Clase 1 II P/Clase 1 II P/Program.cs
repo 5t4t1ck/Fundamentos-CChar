@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Diagnostics.CodeAnalysis;
+
 Console.WriteLine("Hello, World!");
 
 // Crear un script que calcule el area de un rectangulo
@@ -30,7 +32,3 @@ radio = Convert.ToDouble(Console.ReadLine());
 area = Math.PI * Math.Pow(radio, 2);
 
 Console.WriteLine("El área del círculo es: " + area);
-
-int miVariable = 10;
-
-
