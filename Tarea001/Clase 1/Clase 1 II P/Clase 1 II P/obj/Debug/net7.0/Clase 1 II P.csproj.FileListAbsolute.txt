@@ -1,0 +1,15 @@
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\bin\Debug\net7.0\Clase 1 II P.exe
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\bin\Debug\net7.0\Clase 1 II P.deps.json
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\bin\Debug\net7.0\Clase 1 II P.runtimeconfig.json
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\bin\Debug\net7.0\Clase 1 II P.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\bin\Debug\net7.0\Clase 1 II P.pdb
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.csproj.AssemblyReference.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.AssemblyInfoInputs.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.AssemblyInfo.cs
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.csproj.CoreCompileInputs.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\refint\Clase 1 II P.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.pdb
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\Clase 1 II P.genruntimeconfig.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-CChar\Colaboradores\Rodney-Armas\Clase 1\Clase 1 II P\Clase 1 II P\obj\Debug\net7.0\ref\Clase 1 II P.dll
